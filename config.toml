@@ -17,10 +17,10 @@ hasCJKLanguage = true
 [params]
     author = "Sophya's Site"
     avatar = "stinkyPrarieDog.jpg"
-    avatarDescription = "Sweetie the prarie dog"
+    avatarDescription = "Sweetie the Prairie Dog"
     favicon = "favicon.ico"
     description = """
-        Sweetie the Prarie Dog!
+        Sweetie the Prairie Dog!
     """
     publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
