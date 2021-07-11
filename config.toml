@@ -4,6 +4,9 @@ title = "Sophya's Site"
 relativeURLs = true
 uglyURLs = true
 
+# Here is info on using Render.com as a host
+# https://gohugo.io/hosting-and-deployment/hosting-on-render/
+
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
