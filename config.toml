@@ -1,6 +1,8 @@
 baseURL = "https://sophya.onrender.com/"
 languageCode = "en-us"
 title = "Sophya's Site"
+relativeURLs = true
+uglyURLs = true
 
 theme = "pulp"
 canonifyurls = true
